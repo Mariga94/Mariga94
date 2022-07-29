@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Full stack Developer</h1>
-<h3 align="center">A passionate Software Engineer from Nairobi.</h3>
+<h3 align="center">Software Developer</h3>
 
 - 🔭 I’m currently working on **Building House Listing Web application**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **jsphmariga@gmail.com**
 
-- ⚡ Fun fact **“Knock, knock.” “Who’s there?” very long pause…. “Java.”**
+- ⚡ Fun fact "I love pineapple on pizza"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
