@@ -1,17 +1,15 @@
-<h1 align="center">Hi 👋, I'm Full stack Developer</h1>
+<h1 align="center">Hi 👋, I'm Joseph</h1>
 <h3 align="center">Software Developer</h3>
 
 - 🔭 I’m currently working on **Building House Listing Web application**
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on **Full**
-
 - 👨‍💻 All of my projects are available at [josephmariga.com](josephmariga.com)
 
 - 📫 How to reach me **jsphmariga@gmail.com**
 
-- ⚡ Fun fact "I love pineapple on pizza"
+- ⚡ Fun fact **I love pineapple on pizza**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
