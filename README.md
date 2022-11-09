@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [josephmariga.com](josephmariga.com)
-
 - 📫 How to reach me **jsphmariga@gmail.com**
 
 - ⚡ Fun fact **I love pineapple on pizza**
@@ -18,6 +16,3 @@
  <p>
   Twitter: <a href="https://twitter.com/@joseph_m254" target="blank">joseph_m254</a>
 </p>
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Mariga94"><img src="https://github-readme-stats.vercel.app/api?username=Mariga94&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Mariga94's GitHub stats" /></a>
