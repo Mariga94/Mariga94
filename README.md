@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Building House Listing Web application**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Typescript and postgres**
 
 - 📫 How to reach me **jsphmariga@gmail.com**
 
