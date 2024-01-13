@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **Building House Listing Web application**
 
-- 🌱 I’m currently learning **Typescript and postgres**
+- 🌱 I’m currently learning **Typescript and NextJs**
 
 - 📫 How to reach me **jsphmariga@gmail.com**
 
-- ⚡ Fun fact **I love pineapple on pizza**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
