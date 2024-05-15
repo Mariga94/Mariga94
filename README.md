@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joseph</h1>
 <h3 align="center">Software Developer</h3>
 
-- 🔭 I’m currently working on **Building House Listing Web application**
-
-- 🌱 I’m currently learning **Typescript and NextJs**
-
 - 📫 How to reach me **jsphmariga@gmail.com**
 
 
